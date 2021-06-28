@@ -1,0 +1,162 @@
+#logo{
+   /* background: rgb(19,191,171);
+    background: linear-gradient(90deg, rgba(19,191,171,1) 19%, rgba(58,244,115,1) 49%, rgba(19,191,171,1) 81%);
+    width: 100%;
+    height: 7px;*/
+    
+    
+    
+}
+body{
+    background: rgb(255,245,234);
+    
+    
+  
+
+    
+    
+
+    
+    
+}
+#colorcit{
+  
+    background: rgb(255,240,220);
+   
+
+    
+}
+#busqueda{
+    background: rgb(222,205,185);
+    background: linear-gradient(90deg, rgba(222,205,185,0.61) 14%, rgba(222,205,185,0.61) 69%);
+}
+#boti{
+    background: rgb(173,124,64);
+    background: linear-gradient(90deg, rgba(173,124,64,0.6068802521008403) 19%, rgba(173,124,64,0.61) 70%);
+    padding-left: 2px;
+    padding-right: 7px;
+    margin-right: 36px;
+}
+h4{
+    color: rgb(9, 57, 24);
+}
+#espacio{
+    width: 100%;
+    height: 160px;
+    
+}
+#relle{
+   /* width:100% ;
+    height:557px ;
+    background: rgb(255,245,234);*/
+}
+#letra{
+    color : rgb(0,122,91);
+    text-align: left;
+}
+#cuerpo{
+    background: rgb(19,191,171);
+    background: linear-gradient(90deg, rgba(19,191,171,1) 19%, rgba(58,244,115,1) 49%, rgba(19,191,171,1) 81%);
+    
+    
+}
+#ahh{
+    background: rgb(19,191,171);
+    background: linear-gradient(90deg, rgba(19,191,171,1) 19%, rgba(58,244,115,1) 49%, rgba(19,191,171,1) 81%);
+    
+
+}
+.wave{
+    background: rgb(19,191,171);
+    background: linear-gradient(90deg, rgba(19,191,171,1) 19%, rgba(58,244,115,1) 49%, rgba(19,191,171,1) 81%);
+
+}
+a{
+    
+    font-size: 12px;
+    font-family: Verdana,sans-serif;
+}
+
+#nave{
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    background: rgb(255,240,220);
+
+}
+#artic{
+    width: 100%;
+    height:93px ;
+    background:rgb(255,245,234);
+}
+p{
+    
+    font-size: 12px;
+    font-family: Verdana,sans-serif;
+}
+#fuentes{
+    font-size: 18px;
+    font-family: Verdana,sans-serif;
+
+}
+footer{
+    width: 100%;
+    height: 133px;
+    background: black;
+}
+#nana{
+   /* width: 100%;
+    height: 60px;*/
+}
+#insta{
+    margin-left: 90px;
+    padding-top: 12px;
+
+}
+#derechos{
+    color : rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
+    
+}
+#boton{
+    background: rgb(0,122,91);
+    font-size: 12px;
+    
+}
+#letra1{
+    color : rgb(0,122,91);
+    text-align: left;
+    background-color: rgba(0, 122, 91, 0.419);
+}    
+/*ubicanos
+*/
+#letra2{
+    color : rgb(0,122,91);
+    text-align: left;
+    background-color: rgba(0, 122, 91, 0.419);
+}  
+#quienes{
+    text-align: center;
+}
+#conti{
+    background: rgb(130,237,163);
+    background: linear-gradient(90deg, rgba(130,237,163,0.53) 3%, rgba(130,237,163,0.5284488795518207) 100%);
+
+}
+#h4{
+    text-align: center;
+}
+#artico{
+    width: 100%;
+    height:200px ;
+    background:rgb(255,245,234);
+
+}
+
+
+ 
+ 
+
+
+
